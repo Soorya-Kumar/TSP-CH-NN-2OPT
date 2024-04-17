@@ -19,13 +19,13 @@ The Convex Hull Nearest Neighbor (CH-NN) algorithm is a heuristic approach to th
   Copy the data from the selected file.
 
   2. Preprocess the input using the data_pre_process.py
-  After executing the data_pre_process.py the preprocessed data will be present in the input.txt
+  Create a file called 'input.txt' and paste the data. After executing the data_pre_process.py the preprocessed data will be present in the input.txt
   
-  3. Executing the TSP Solver:
+  4. Executing the TSP Solver:
   Compile and run the CH-NN_2-OPT.cpp file which contains the main algorithm.
   This file displays the optimal tour, optimal tour distance and the time taken in the terminal and feeds this data to the respective files for visualisation
 
-  4. Visualisation: The convexhull and the optimal TSP tour can be visualised using the convexhull_visualisation.py and     
+  5. Visualisation: The convexhull and the optimal TSP tour can be visualised using the convexhull_visualisation.py and     
   tsp_visualisation.py respectively.
 
 ## Dependencies
