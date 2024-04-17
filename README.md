@@ -23,7 +23,7 @@ The Convex Hull Nearest Neighbor (CH-NN) algorithm is a heuristic approach to th
   
   3. Executing the TSP Solver:
   Compile and run the CH-NN_2-OPT.cpp file which contains the main algorithm.
-  This file displays the optimal tour, optimal tour distance and the time taken in the terminal and feeds this data to the respective     files for visualisation
+  This file displays the optimal tour, optimal tour distance and the time taken in the terminal and feeds this data to the respective files for visualisation
 
   4.Visualisation : The convexhull and the optimal TSP tour can be visualised using the convexhull_visualisation.py and     
   tsp_visualisation.py respectively.
