@@ -29,6 +29,6 @@ The Convex Hull Nearest Neighbor (CH-NN) algorithm is a heuristic approach to th
   tsp_visualisation.py respectively.
 
 ## Dependencies
-python
-matplotlib 
-c++ 14
+Python, 
+matplotlib,  
+C++ 14
