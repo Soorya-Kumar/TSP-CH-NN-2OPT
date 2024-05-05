@@ -29,8 +29,9 @@ The Convex Hull Nearest Neighbor (CH-NN) algorithm is a heuristic approach to th
   tsp_visualisation.py respectively.
 
 ## Note
-The folder modeified code contains the file to preprocess the code when the datafile is of the csv form and datapoints are as latitudes and longitudes(degrees)
-The folder Real-life data contains dataset containing real life data acquired from various websites. 
+  1. The folder modeified code contains the file to preprocess the code when the datafile is of the csv form and datapoints are as latitudes and longitudes(degrees).
+
+  2. The folder Real-life data contains dataset containing real life data acquired from various websites. 
 
 ## Dependencies
 Python, 
