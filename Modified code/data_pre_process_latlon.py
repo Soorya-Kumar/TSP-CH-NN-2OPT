@@ -3,9 +3,11 @@ import csv
 # Function to format each line into {x, y} format
 def format_point(row):
     #city = row[0]
-    lat = row[4]
-    lon = row[5]
+    lat = row[4] # the row no 4 in the csv file contians the latitudes
+    lon = row[5] # the row no 5 in the csv file contians the longtitude
     return f"{{{lat}, {lon}}},"
+
+# change the index as required to filter the latitudes and longitudes from the csv file. 
 
 # Function to read data from a file and format the points
 def process_file(filename):
